@@ -39,8 +39,7 @@ Books read per year
 
 Aggregate book level over time
 
-![min_max_plot](https://github.com/Naphthacene/Natively-graph/assets/150095040/d73b55bc-f7a1-483f-9f46-8213cf10eef5)
-
+![min_max_plot](https://github.com/Naphthacene/Natively-graph/assets/150095040/5bee4888-4796-4f0c-bd29-ae73cdd68303)
 
 Level over time separated by book type, with linear regression
 
