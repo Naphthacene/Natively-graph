@@ -27,9 +27,15 @@ When signed in, you can currently generate and download the file at https://lear
 
 Then, run the code with the file as an argument.
 ```
-$python make_figs.py path_to_file/filename.csv
+$python make_figs.py path_to_file/filename.csv [options]
 ```
 The code will generate a few figures in the same folder.
+
+### Valid options:
+
+-d DATE removes data older than DATE for the last two plots.
+
+-p PALETTE sets the color palette to PALETTE, following the seaborn standards.
 
 ## Current figures
 
